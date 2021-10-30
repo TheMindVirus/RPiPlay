@@ -1,0 +1,2 @@
+/usr/bin/ar qc libh264-bitstream.a  CMakeFiles/h264-bitstream.dir/h264_avcc.c.o CMakeFiles/h264-bitstream.dir/h264_nal.c.o CMakeFiles/h264-bitstream.dir/h264_sei.c.o CMakeFiles/h264-bitstream.dir/h264_stream.c.o
+/usr/bin/ranlib libh264-bitstream.a

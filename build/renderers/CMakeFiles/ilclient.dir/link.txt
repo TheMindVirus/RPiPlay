@@ -1,0 +1,2 @@
+/usr/bin/ar qc libilclient.a  CMakeFiles/ilclient.dir/opt/vc/src/hello_pi/libs/ilclient/ilclient.c.o CMakeFiles/ilclient.dir/opt/vc/src/hello_pi/libs/ilclient/ilcore.c.o
+/usr/bin/ranlib libilclient.a

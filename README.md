@@ -1,3 +1,9 @@
+RPiPlay - Built on Pi3A - 31/10/2021 @ 00:00
+
+Please see the additional README.md at: https://github.com/TheMindVirus/RPiPlay/blob/main/build/README.md
+
+This Fork's Original Repository: https://github.com/FD-/RPiPlay
+
 # Introduction
 
 An open-source implementation of an AirPlay mirroring server for the Raspberry Pi.

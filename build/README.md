@@ -4,7 +4,7 @@
 
 `sudo make install` to install `rpiplay` to your PATH
 
-`rpiplay` to run (make sure network is connected, WiFi is ok)
+`rpiplay` to run (make sure network is connected, WiFi is ok. The screen will go dark.)
 
 Select `RPiPlay` in Control Center Screen Mirroring on iOS
 

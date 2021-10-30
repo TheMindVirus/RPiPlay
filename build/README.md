@@ -14,7 +14,7 @@ Deselect `RPiPlay` on iOS to stop mirroring
 
 Press `Esc` to quit on the Pi to close `rpiplay`
 
-Restart the Pi, Check Thermals and Rebuild if Pi is newer
+Restart the Pi if there are issues, Check Thermals and Rebuild if Pi is newer
 
 ### Build Commands Used:
 ```

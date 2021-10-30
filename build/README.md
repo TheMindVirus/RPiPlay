@@ -1,4 +1,4 @@
-RPiPlay - Built on Pi3A - 31/10/2021 @ 00:00
+# RPiPlay - Built on Pi3A - 31/10/2021 @ 00:00
 
 `sudo make install` to install `rpiplay` to your PATH
 

@@ -1,5 +1,7 @@
 # RPiPlay - Built on Pi3A - 31/10/2021 @ 00:00
 
+### More Information: https://github.com/FD-/RPiPlay
+
 `sudo make install` to install `rpiplay` to your PATH
 
 `rpiplay` to run (make sure network is connected, WiFi is ok)
@@ -12,7 +14,7 @@ Press `Esc` to quit on the Pi to close `rpiplay`
 
 Restart the Pi, Check Thermals and Rebuild if Pi is newer
 
-Build Commands Used:
+### Build Commands Used:
 ```
 sudo su
 apt-get install build-essential make cmake git
@@ -32,12 +34,10 @@ make install
 exit 0
 ```
 
-More Information: https://github.com/FD-/RPiPlay
-
 It is also recommended on some Pi's that you set up a 1GB swap file \
-with mkswap and swapon, as well as a swap partition with gparted.
+with `mkswap` and `swapon`, as well as a swap partition with `gparted`
 
-Config Commands Used:
+### Config Commands Used:
 ```
 sudo su
 apt-get install gparted
@@ -49,7 +49,6 @@ swapon
 gparted
 exit 0
 ```
-Warning: Make sure you have enough space for this operation \
-and don't already have a file named /var/swap2
+### WARNING: Make sure you have enough space for this operation and don't already have a file named /var/swap2
 
-Enjoy Raspberry Pi AirPlay!
+## Enjoy Raspberry Pi AirPlay!

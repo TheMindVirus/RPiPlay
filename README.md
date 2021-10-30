@@ -1,6 +1,6 @@
 RPiPlay - Built on Pi3A - 31/10/2021 @ 00:00
 
-Please see the additional README.md at: https://github.com/TheMindVirus/RPiPlay/blob/main/build/README.md
+Please see the additional README.md at: https://github.com/TheMindVirus/RPiPlay/tree/master/build
 
 This Fork's Original Repository: https://github.com/FD-/RPiPlay
 

@@ -14,7 +14,11 @@ Deselect `RPiPlay` on iOS to stop mirroring
 
 Press `Esc` to quit on the Pi to close `rpiplay`
 
-Restart the Pi if there are issues, Check Thermals and Rebuild if Pi is newer
+Restart the Pi if there are issues, Check Thermals and Rebuild if Pi is newer \
+
+__Update:__ The Experimental Full KMS GL Driver is interfering with RPiPlay. \
+You may in some cases (especially with Pi3A) have to use `sudo raspi-config` \
+to select `Advanced Options -> GL Driver -> Legacy` to enable RPiPlay to work.
 
 ### Build Commands Used:
 ```
